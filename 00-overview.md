@@ -43,8 +43,7 @@ Here is my approach:
 4. For the algorithms technique the focus is just getting confortable with it and being at a point where I can recognize the patterns. Example: in order to get to dynamic programming I need to be first comfortable with recursion. 
 
 ## Data Structures:
-1. Bit Manipulation (yes, I have been asked these types on an interview before)
-2. linked lists (single, double linked)
+2. linked lists (single, double linked, circular)
 3. stacks
 4. queues
 5. heaps 
@@ -61,3 +60,5 @@ Here is my approach:
 4. Greedy
 5. Dynamic Programming
 6. Graph 
+7. Bit Manipulation (yes, I have been asked these types on an interview before)
+
